@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85fc2748-ba29-437e-b6da-835f244018c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -155,7 +154,7 @@
       <updated>1475776658517</updated>
       <workItem from="1475776660383" duration="39000" />
       <workItem from="1475909415763" duration="813000" />
-      <workItem from="1475995542865" duration="29000" />
+      <workItem from="1475995542865" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Change from Wamp64/www&#10;">
       <created>1475909504126</created>
@@ -185,11 +184,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475910009673</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add good scss&#10;TRY COMIT">
+      <created>1475995587785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1475995587785</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="881000" />
+    <option name="totallyTimeSpent" value="940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -228,7 +234,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change from Wamp64/www&#10;" />
     <MESSAGE value="Add good scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add good scss" />
+    <MESSAGE value="Add good scss&#10;TRY COMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add good scss&#10;TRY COMIT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
