@@ -154,7 +154,7 @@
       <updated>1475776658517</updated>
       <workItem from="1475776660383" duration="39000" />
       <workItem from="1475909415763" duration="813000" />
-      <workItem from="1475995542865" duration="88000" />
+      <workItem from="1475995542865" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="Change from Wamp64/www&#10;">
       <created>1475909504126</created>
@@ -191,11 +191,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475995587785</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add good scss&#10;TRY COMIT">
+      <created>1475995634699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1475995634699</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="940000" />
+    <option name="totallyTimeSpent" value="947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
